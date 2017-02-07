@@ -1,19 +1,17 @@
 # ACERCA DE GHOST
 **Ghost** es un Sistema Operativo programado desde cero en los lenguajes C++ y Ensamblador para la plataforma Intel x86 . 
-Esta concebido en torno a un nucleo que tiene mucho de microkernel.
+Esta concebido en torno a un nucleo que tiene muchas cualidades de microkernel.
 
 ## Estado
 Hemos liberado la version 0.5.4 el 17 de Noviembre del 2016. 
 
-I've reworked a lot of stuff since the last revision and fixed many bugs.
-The client-canvas is finished and used in the terminal/desktop. Started the
-implementation of a new, VT100 compatible terminal and a custom shell
-(`gosh`). Added various features to the window server, including event
-transfer to the client, exit-event when the main window of a program closes,
-remove components when their process dies and more.
+Hemos reescrito mucho codigo desde la ultima revision y hemos corregido muchos bugs. 
+EL client-canvas esta terminado y se le da uso en la linea de comandos y en el escritorio. 
 
-Also added a JavaScript interpreter program (`js`) which bases on
-the Duktape JS engine.
+Hemos iniciado la implementacion de una linea de comandos compatible con VT100 y con una consola propia, denominada `gosh`. Hemos implementado varias caracteristicas al servidor de ventanas, las cuales incluyen transferencia de eventos al cliente, evento de salida en la ventana principal cuando cerramos un programa y eliminacion de componentes cuando sus procesos mueren, entre otros.
+
+Igualmente, hemos agregado un interprete de JavaScript (`js`) con fundamento en el motor 
+Duktape JS.
 
 ![Current screenshot of Duktape running](https://ghostkernel.org/files/ghost-0.5.3-jsconsole.png)
 
