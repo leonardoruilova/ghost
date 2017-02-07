@@ -1,11 +1,9 @@
-# ABOUT GHOST
-**Ghost** is an operating system for the Intel x86 platform written
-from scratch in C++ and assembly. It's based on a (almost) pure microkernel
-design.
+# ACERCA DE GHOST
+**Ghost** es un Sistema Operativo programado desde cero en los lenguajes C++ y Ensamblador para la plataforma Intel x86 . 
+Esta concebido en torno a un nucleo que tiene mucho de microkernel.
 
-## Status
-This is the bleeding edge source version of November 17, 2016.
-Version 0.5.4
+## Estado
+Hemos liberado la version 0.5.4 el 17 de Noviembre del 2016. 
 
 I've reworked a lot of stuff since the last revision and fixed many bugs.
 The client-canvas is finished and used in the terminal/desktop. Started the
@@ -45,4 +43,4 @@ feel free to contact me at:
 
 	lokoxe@gmail.com
 	
--Max Schlüssel
+-Max SchlÃ¼ssel
