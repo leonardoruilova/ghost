@@ -31,13 +31,11 @@ Duktape JS.
 - Serial COM1 kernel logging
 - Virtual 8086 for BIOS calls
 
-## Documentation
-See the `documentation` folder for documentation. It contains information
-about the technical design as well as building instructions.
+## Documentacion
+Por favor, remitase al directorio `documentation` para leer nuestra documentacion. Dicho directorio contiene informacion sobre el diseno de nuestro Sistema Operativo, asi como instrucciones para su compilacion.
 
-## Contact
-If you want to get in contact, contribute to the project or have any questions,
-feel free to contact me at:
+## Contacto
+Si ud. desea dialogar acerca de Ghost, contribuir al proyecto o realizar consultar, por favor utilice la siguiente direccion de correo electronico:
 
 	lokoxe@gmail.com
 	
