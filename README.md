@@ -42,3 +42,8 @@ feel free to contact me at:
 	lokoxe@gmail.com
 	
 -Max Schlüssel
+
+## Licencia de la traduccion en castellano
+
+La traduccion ha sido liberada a los comunes bajo una licencia CC-BY-NC-SA, su autor es Virgilio Leonardo Ruilova.
+
