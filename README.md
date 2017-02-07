@@ -15,19 +15,19 @@ Duktape JS.
 
 ![Current screenshot of Duktape running](https://ghostkernel.org/files/ghost-0.5.3-jsconsole.png)
 
-## Features
-- Command-line & GUI environment
-- Multiprocessor support
-- PS/2 keyboard & mouse driver, VESA video driver
-- Kernel written from scratch
+## Caracteristicas
+- Lines de comandos e interfaz grafica
+- Ejecucion en multiprocesador
+- Controladores para teclado y mouse PS/2 keyboard, controladores de video VESA
+- Kernel escrito desde cero
 - Patched GCC, OS specific toolchain
-- Custom libc implementation
-- libstdc++ port
+- Implementacion propia de la biblioteca libc 
+- Port de la biblioteca libstdc++ 
 - Extensive kernel API library (libapi)
-- Userspace C++ library (libuser)
-- Userspace filesystem driver support
-- ELF binary support
-- Various IPC mechanisms: pipes, signals, messages, shared memory
+- Biblioteca de espacio de usuario en el lenguaje C++ (libuser)
+- Sistema de Archivos en espacio de usuario habilitado
+- Ejecucion de binarios ELF 
+- Diveros mecanismos IPC: tuberias, senales, mensajes, memoria compartida
 - Serial COM1 kernel logging
 - Virtual 8086 for BIOS calls
 
